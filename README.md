@@ -13,6 +13,6 @@ Additional Credits: [@itsdstar](https://github.com/itsdstar) - For making signif
 
 Live Websites: 
 
-https://0x3dnexus.github.io/Weather_app/
+[0x3dnexus](https://0x3dnexus.github.io/Weather_app/)
 
-https://itsdstar.github.io/Weather_app/
+[itsdstar](https://itsdstar.github.io/Weather_app/)
