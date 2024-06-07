@@ -9,8 +9,7 @@ search result optimization and filtering but does the basic job well !
 
 The API key for this project is a temporary key and hence might not work in the future. [Weather API](https://www.weatherapi.com/) provides free api keys upon account creation and can be used if needed for permanent use !
 
-Additional Credits: 
-@itsdstar [itsdstar](https://github.com/itsdstar) - For making significant changes to css file and also adding a suggestion drop down filter and other functionality for faster api responses !
+Additional Credits: [@itsdstar](https://github.com/itsdstar) - For making significant changes to css file and also adding a suggestion drop down filter and other functionality for faster api responses !
 
 Live Websites: 
 
