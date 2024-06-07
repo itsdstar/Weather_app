@@ -1,7 +1,8 @@
 ## This Weather App Project Made Using HTML, CSS and Vanilla JavaScript. 
 
 > [!NOTE]
-> This app is not meant for any commercial use by any means and is built for educational and learning purposes only.<br />
+> This app is not meant for any commercial use by any means and is built for educational and learning purposes only.
+> 
 > The weather report is fetched from [Weather API](https://www.weatherapi.com/) which delivers proper data most of the time but may posses some "incorrect" data
 > at times. Long story short it's not 100% accurate.
 >
