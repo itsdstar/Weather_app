@@ -3,7 +3,8 @@
 This app is not meant for any commercial use by any means and is built for educational and learning purposes only.
 
 > [!NOTE]
-> The weather report is fetched from [Weather API](https://www.weatherapi.com/) which delivers proper data most of the time but may posses some "incorrect" data > > at times. Long story short its not 100% accurate.
+> The weather report is fetched from [Weather API](https://www.weatherapi.com/) which delivers proper data most of the time but may posses some "incorrect" data
+> at times. Long story short its not 100% accurate.
 
 The Search Option uses a JS array to add location suggestion based on the input which speeds up the search process for the API and also opens a drop down menu to choose from. This search option is not the best in the implementation of 
 search result optimization and filtering but does the basic job well.
